@@ -18,7 +18,7 @@ The file, `app/views/posts/_another_partial.html.erb` will be opened.
 
 #### Actual:
 
-You get the error: `Cannot find "another_parial" in path`
+You get the error: `E345: Cannot find file "another_parial" in path`
 
 ---
 
