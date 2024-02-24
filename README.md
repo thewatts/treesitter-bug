@@ -8,7 +8,7 @@ It looks like, if `highlight = { enable = true }` is set, that `gf` breaks.
 
 ( Note: It *only* has lazy-vim, vim-rails, and nvim-treesitter )
 
-2. cd into the included app directory, and open `app/views/posts/_post.html.erb`
+2. cd into the included rails application, and open `app/views/posts/_post.html.erb`
 3. Move your cursor to be over the word "another_partial"
 4. In normal mode, hit `gf`
 
